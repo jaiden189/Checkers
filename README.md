@@ -6,7 +6,7 @@ This project is based on the board game checkers, and it follows classic rules. 
 
 ## Files
 
-player.java contains the commands for initializing and updating the score of each player throughout the game.
+_player.java_ contains the commands for initializing and updating the score of each player throughout the game.
 
 pieces.java contains the commands that update and store the new position of a piece that has been moved, turn a piece into king status if it has reached the other end of the board, and return the positions of pieces and whether or not a piece is a king or not. 
 
