@@ -1,4 +1,4 @@
-#Checkers
+# Checkers
 
 ## A two-player interactive checkers game written in Java
 
